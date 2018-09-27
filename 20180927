@@ -7,7 +7,7 @@ int main(void)
    printf("Hello Taiwan!\n");        /* 印出Hello Taiwan! 字串 */   
    
    system("pause");
-   return ;
+   return 0;
    printf("吳紀彥!\n");
 }
 
